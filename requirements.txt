@@ -1,0 +1,11 @@
+locustio
+pytest
+pytest-xdist
+pytest-html
+requests
+paramiko
+urllib3
+rdflib
+bs4
+wget
+pytest-rerunfailures
